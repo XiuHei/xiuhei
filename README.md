@@ -2,7 +2,7 @@
 w҉e҉l҉c҉o҉m҉e҉ ҉t҉o҉ ҉m҉y҉ ҉r҉e҉p҉o҉s҉i҉t҉o҉r҉y҉!҉
   — I program 4 fun!
 
-<img src="https://github.com/XiuHei/xiuhei/blob/main/.gitassets/ascii.svg?raw=true" />
+<img src="https://raw.githubusercontent.com/xiuhei/xiuhei/master/.gitassets/ascii.svg?raw=true" />
 
               🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
 
@@ -12,7 +12,7 @@ w҉e҉l҉c҉o҉m҉e҉ ҉t҉o҉ ҉m҉y҉ ҉r҉e҉p҉o҉s҉i҉t҉o҉r҉y҉!҉
     <img src="https://komarev.com/ghpvc/?username=xiuhei&color=blueviolet"/> 
 </p>
 
-### Welcomehttps://github.com/XiuHei/xiuhei/blob/main/README.md
+### Welcome
 This is my GitHub's open source repository page, I write **these** programs just to have fun, they are my hobbies, I try to make tools mainly for Windows using Object Pascal, C#, Assembly, Python, etc. and also web stuff.
 
 Some of them are just proof of concepts, maybe they might remain as neverending WIP projects, or maybe some might get more attention and get continuous maintenance, as I said, they're hobby projects.
@@ -52,7 +52,7 @@ These are just simple open source projects, the advanced and complex projects ar
 </p>
 
 Thanks for reading. Take care.
-![anim](https://github.com/XiuHei/xiuhei/blob/main/.gitassets/walkingmario.gif)
+![anim](https://raw.githubusercontent.com/xiuhei/xiuhei/master/.gitassets/walkingmario.gif)
 
 <!--
 [![Readme Card](https://readme-stats-teal-alpha.vercel.app/api/pin/?username=xiuhei&repo=winxcorners)](https://github.com/xiuhei/winxcorners)
